@@ -11492,17 +11492,13 @@ pre .code {
 }
 
 .header {
-  position: relative;
   width: 100%;
   height: 100vh;
-  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../imgs/header.jpg);
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../imgs/header.jpg);
+  background: url("../imgs/Steve-0.jpg") top center;
   background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  color: #fff;
+  position: relative;
 }
+
 
 .header .container {
   position: relative;
