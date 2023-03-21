@@ -11540,11 +11540,10 @@ pre .code {
   margin-bottom: 40px;
 }
 
-@media (max-width: 767.98px) {
-  .header {
-    height: 500px;
-    min-height: 500px;
-  }
+@media (max-width: 979px) {
+	.column-btn1 .x-column.x-1-2 {
+		    min-height: 0 !important;
+	}
   .header .social-icons {
     margin: auto;
   }
