@@ -11496,6 +11496,7 @@ height: 100vh;
 width: 100vw;
   background-image:  url(../imgs/Tim.jpg);
   background-size: cover;
+background-position: center;
 
 
 }
