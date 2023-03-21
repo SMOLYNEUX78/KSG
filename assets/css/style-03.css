@@ -11493,10 +11493,10 @@ pre .code {
 
 .header {
   position: relative;
-width: 100%;
+  width: 100%;
   height: 100vh;
- background: url("../imgs/Steve-01.jpg") top center;
-
+  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../imgs/header.jpg);
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../imgs/header.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
