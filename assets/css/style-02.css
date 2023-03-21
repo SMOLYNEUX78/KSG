@@ -11497,7 +11497,7 @@ pre .code {
   min-height: 600px;
   background-image:  url(../imgs/Tim.jpg);
   background-size: cover;
-  background-position: center;
+  background-position: 100% 100%;
   background-repeat: no-repeat;
   background-attachment: fixed;
   color: #fff;
