@@ -11493,12 +11493,11 @@ pre .code {
 
 .header {
   position: center;
-  height: 80vh;
-  min-height: 600px;
+  width: 100vw;
+  height: 100vh;
   background-image:  url(../imgs/Tim.jpg);
-  background-size: cover;
+  background-size: 100%;
   background-repeat: no-repeat;
-  background-attachment: fixed;
   color: #fff;
 }
 
