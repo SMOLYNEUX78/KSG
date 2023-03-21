@@ -11492,12 +11492,11 @@ pre .code {
 }
 
 .header {
-  position: relative;
+  position: center;
   height: 80vh;
   min-height: 600px;
   background-image:  url(../imgs/Tim.jpg);
   background-size: cover;
-  background-position: 100% 100%;
   background-repeat: no-repeat;
   background-attachment: fixed;
   color: #fff;
