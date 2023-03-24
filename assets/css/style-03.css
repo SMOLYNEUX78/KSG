@@ -11351,7 +11351,7 @@ pre {
 
 pre code,
 pre .code {
-  color: #6c757d;
+  color: #009008;
 }
 
 .dropdown-menu.form {
@@ -11373,11 +11373,11 @@ pre .code {
 }
 
 .social-icons .social-link {
-  font-size: 18px;
+  font-size: 25px;
 }
 
 .social-icons .social-link:hover {
-  color: #68D047;
+  color: #009008;
 }
 
 .navbar {
@@ -11678,6 +11678,5 @@ background-position: center;
 
 
 }
-
 
 
