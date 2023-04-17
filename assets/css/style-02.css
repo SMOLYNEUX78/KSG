@@ -11668,3 +11668,12 @@ background-position: center;
   display: block;
   margin-top: 10px;
 }
+
+.map {
+
+  background-image:  url(../imgs/deben.jpg);
+  background-size: cover;
+background-position: center;
+
+
+}
